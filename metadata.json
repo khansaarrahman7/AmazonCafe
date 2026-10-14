@@ -1,0 +1,6 @@
+{
+  "name": "Amazon Cafe - Luxury Coffee & Dining in Sherpur",
+  "description": "Premium modern cafe experience in Sherpur Sadar, Sherpur, Bangladesh. Taste the Moment. Feel the Magic.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
